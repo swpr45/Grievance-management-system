@@ -1,16 +1,37 @@
-# Grievance-management-system
-Online Grievance Management System provides an online way of solving the problems faced by the student/staff/and any other faculty members by saving time and eradicate corruption. The objective of the grievance management system is to make complaints easier to coordinate, monitor, track and resolve, and to provide company with an effective tool to identify and target problem areas, monitor complaints handling performance and make business improvements. Online grievance Management is a management technique for assessing, analyzing and responding to users complaints. Complaints management soft- ware is used to record resolve and respond to customer com- plaints, requests as well as facilitate any other feedback.
-***********************************************************************************************************************************************************************************
-#Contribution:
-1.Swapnil Chatrabhuj Kuwar
-2.Aishwarya Mohan Mahajan
-3.Prajakta Bhika More
-4.Harshal Prabhakar Chaudhari
-5.Pushpak Devidas Kumbhar
-***********************************************************************************************************************************************************************************
-For demo steps:
-1.Download zip file.
-2.Extract it to xampp/hddocs folder.
-3.By using PHP myadmin import cms database  file present in the folder.
-4.Finally run on localhost.
-*********************************************************************************************************************************************************************************
+# Online Grievance Management System
+
+The Online Grievance Management System is a web-based application that provides a platform for users to register and submit their grievances online. This system aims to streamline the process of grievance management and enhance communication between users and the concerned authorities.
+
+## Features
+- User registration and login functionality
+- Grievance submission with relevant details
+- Tracking and status updates of submitted grievances
+- Admin dashboard for managing grievances and user accounts
+- Secure authentication and data protection measures
+
+## Technologies Used
+- JavaScript
+- HTML
+- CSS
+- PHP (Hypertext Preprocessor)
+- MySQL (Database)
+
+## Contributors
+- Swapnil Chatrabhuj Kuwar
+- Pushpak Devidas Kumbhar
+- Aishwarya Mohan Mahajan
+- Prajakta Bhika More
+- Harshal Prabhakar Chaudhari
+
+## Contributing
+Contributions to this project are welcome! If you would like to contribute, please follow these steps:
+1. Fork the repository
+2. Create a new branch for your feature or bug fix
+3. Make your changes and commit them
+4. Push your changes to your forked repository
+5. Submit a pull request with a detailed description of your changes
+
+Please ensure that your contributions adhere to the project's coding conventions and follow good Git and GitHub practices.
+
+## License
+This project is licensed under the [MIT License](LICENSE).
